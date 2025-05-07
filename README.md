@@ -1,5 +1,5 @@
 
-# 🌊 Underwater Image Enhancement using Multi-Fusion Technique
+# 🌊 Adaptive Underwater Image Enhancement using weighted combined fusion Technique
 
 This project implements an **Underwater Image Enhancement System** using a **Multi-Fusion technique**, built with **Flask** for the web interface and powered by a pre-trained model for enhancing submerged visuals. The system allows users to upload underwater images and view the enhanced outputs instantly.
 
